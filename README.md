@@ -23,7 +23,7 @@ Each folder contains PNG-format images. No segmentation masks or annotations are
 
 To access the dataset, please fill out the following form:
 
-👉 [**Request Access via Google Form**](https://docs.google.com/forms/d/e/1FAIpQLSclvj94OVmtVE8hZR4hoE4rsPrgvzZKHLFXNF43zaiW5PPA2Q/viewform)
+👉 [**Request Access via Google Form**]([https://docs.google.com/forms/d/e/1FAIpQLSclvj94OVmtVE8hZR4hoE4rsPrgvzZKHLFXNF43zaiW5PPA2Q/viewform](https://docs.google.com/forms/d/e/1FAIpQLSdTXvjk6nOW_DwZXU_QIluAZFbwrbw3Hb01FciGSnylJ0bsag/viewform?usp=dialog))
 
 By submitting the form, you agree to:
 
