@@ -2,9 +2,9 @@
 
 This dataset includes **1203 ultrasound images** from **211 patients**, categorized into **three clinical classes** based on expert labeling:
 
-- ✅ **Good** — Usable and high-quality ultrasound images  
-- ❌ **Bad** — Low-quality or diagnostically unfit images  
-- 🚫 **Null** — Images with unclear or unusable content  
+- **Good** — Usable and high-quality ultrasound images  
+- **Bad** — Low-quality or diagnostically unfit images  
+- **Null** — Images with unclear or unusable content  
 
 The dataset is designed for **multi-class classification** tasks in medical imaging.
 
