@@ -1,4 +1,4 @@
-# 🧠 Public Kidney Ultrasound Classification Dataset
+# Public Kidney Ultrasound Classification Dataset
 
 This dataset includes **1203 ultrasound images** from **211 patients**, categorized into **three clinical classes** based on expert labeling:
 
