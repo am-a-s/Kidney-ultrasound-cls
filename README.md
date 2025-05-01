@@ -1,47 +1,51 @@
-# 🧠 Public Kidney Ultrasound Dataset
+# 🧠 Public Kidney Ultrasound Classification Dataset
 
-The **Public Kidney Dataset** comprises **570 ultrasound images** from **281 different patients**. This dataset is intended **for non-commercial, academic research purposes only**.
+This dataset includes **1203 ultrasound images** from **211 patients**, categorized into **three clinical classes** based on expert labeling:
+
+- ✅ **Good** — Usable and high-quality ultrasound images  
+- ❌ **Bad** — Low-quality or diagnostically unfit images  
+- 🚫 **Null** — Images with unclear or unusable content  
+
+The dataset is designed for **multi-class classification** tasks in medical imaging.
 
 ---
 
-## 📁 Dataset Contents
+## 📁 Dataset Structure
 
-Each sample in the dataset includes:
+The dataset is organized into three main folders:
 
-- 🟦 **DICOM file**: Original ultrasound in DICOM format  
-- 📷 **Original PNG file**: PNG format of the raw ultrasound image  
-- 🏷️ **Label PNG file**: PNG of the labeled image  
-- 🧩 **Segmented TXT file**: Coordinates of the segmented points
+
+Each folder contains PNG-format images. No segmentation masks or annotations are provided.
 
 ---
 
 ## 🔐 Access the Dataset
 
-To access the dataset, please complete the following form:
+To access the dataset, please fill out the following form:
 
 👉 [**Request Access via Google Form**](https://docs.google.com/forms/d/e/1FAIpQLSclvj94OVmtVE8hZR4hoE4rsPrgvzZKHLFXNF43zaiW5PPA2Q/viewform)
 
 By submitting the form, you agree to:
-- Use the dataset **only for non-commercial research**.
-- **Not redistribute** the dataset.
+
+- Use the dataset **only for non-commercial academic research**
+- **Not redistribute** the dataset or any part of it
 
 ---
 
 ## 📩 Contact
 
-For questions or inquiries, please contact:  
+For dataset-related inquiries, contact:  
 **a.sajjadianmoosavi@gmail.com**
-
----
-
-## 📜 Citation
-
-If you use this dataset in your research, please cite the associated study:
-
-> _[Include citation or DOI once published, or mention “Citation will be added upon publication”]_
 
 ---
 
 ## ⚖️ License
 
-This dataset is released under a **non-commercial research license**. Redistribution or commercial use is strictly prohibited.
+This dataset is available under a **non-commercial, research-only license**. Redistribution and commercial use are strictly prohibited.
+
+---
+
+## 📝 Citation
+
+Please cite the associated study when using this dataset:  
+> _[Citation will be added upon publication]_
